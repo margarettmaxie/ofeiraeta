@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohbooyaith.biotaware.com/sitemap.xml
